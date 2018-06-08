@@ -1,0 +1,121 @@
+time : 2018/05/23 10:00:00 temp : 32 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 71% visibility : 10 km
+time : 2018/05/23 13:00:00 temp : 34 °C weather : Partly sunny. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 60% visibility : 10 km
+time : 2018/05/23 16:00:00 temp : 32 °C weather : Thunderstorms. Overcast. wind : 11 km/h wind direction : Wind blowing from 330° North-northwest to South-southeast humidity : 69% visibility : 10 km
+time : 2018/05/23 19:00:00 temp : 29 °C weather : Light rain. Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 83% visibility : 8 km
+time : 2018/05/23 22:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/05/24 01:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/24 04:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 95% visibility : 10 km
+time : 2018/05/24 07:00:00 temp : 26 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 91% visibility : 10 km
+time : 2018/05/24 10:00:00 temp : 30 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 73% visibility : 10 km
+time : 2018/05/24 13:00:00 temp : 29 °C weather : Scattered clouds. wind : 4 km/h wind direction : Wind blowing from 270° West to East humidity : 78% visibility : 10 km
+time : 2018/05/24 16:00:00 temp : 32 °C weather : Passing clouds. wind : 4 km/h wind direction : Wind blowing from 280° West to East humidity : 65% visibility : 10 km
+time : 2018/05/24 19:00:00 temp : 29 °C weather : Passing clouds. wind : 7 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 79% visibility : 10 km
+time : 2018/05/24 22:00:00 temp : 26 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/25 04:00:00 temp : 26 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 92% visibility : 10 km
+time : 2018/05/25 07:00:00 temp : 27 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 91% visibility : 10 km
+time : 2018/05/25 10:00:00 temp : 30 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 72% visibility : 10 km
+time : 2018/05/25 13:00:00 temp : 33 °C weather : Scattered clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 61% visibility : 10 km
+time : 2018/05/25 16:00:00 temp : 32 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 90° East to West humidity : 69% visibility : 10 km
+time : 2018/05/25 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 75% visibility : 10 km
+time : 2018/05/25 22:00:00 temp : 29 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 83% visibility : 10 km
+time : 2018/05/26 01:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 83% visibility : 10 km
+time : 2018/05/26 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 89% visibility : 10 km
+time : 2018/05/26 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 92% visibility : 10 km
+time : 2018/05/26 10:00:00 temp : 31 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 67% visibility : 10 km
+time : 2018/05/26 13:00:00 temp : 31 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 66% visibility : 10 km
+time : 2018/05/26 16:00:00 temp : 31 °C weather : Overcast. wind : 7 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 72% visibility : 10 km
+time : 2018/05/26 19:00:00 temp : 29 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 130° Southeast to Northwest humidity : 87% visibility : 10 km
+time : 2018/05/26 22:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/27 01:00:00 temp : 27 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 94% visibility : 10 km
+time : 2018/05/27 04:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 95% visibility : 10 km
+time : 2018/05/27 07:00:00 temp : 26 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 92% visibility : 10 km
+time : 2018/05/27 10:00:00 temp : 30 °C weather : Partly sunny. wind : 4 km/h wind direction : Wind blowing from 140° Southeast to Northwest humidity : 75% visibility : 10 km
+time : 2018/05/27 13:00:00 temp : 34 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 80% visibility : 10 km
+time : 2018/05/27 16:00:00 temp : 33 °C weather : Scattered clouds. wind : 4 km/h wind direction : Wind blowing from 90° East to West humidity : 58% visibility : 10 km
+time : 2018/05/27 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 74% visibility : 10 km
+time : 2018/05/27 22:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 79% visibility : 10 km
+time : 2018/05/28 01:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 90% visibility : 10 km
+time : 2018/05/28 04:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 89% visibility : 10 km
+time : 2018/05/28 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 94% visibility : 10 km
+time : 2018/05/28 10:00:00 temp : 30 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 77% visibility : 10 km
+time : 2018/05/28 13:00:00 temp : 35 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 150° South-southeast to North-northwest humidity : 56% visibility : 10 km
+time : 2018/05/28 16:00:00 temp : 30 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/05/28 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 82% visibility : 10 km
+time : 2018/05/28 22:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 82% visibility : 10 km
+time : 2018/05/29 01:00:00 temp : 29 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 83% visibility : 10 km
+time : 2018/05/29 04:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 88% visibility : 10 km
+time : 2018/05/29 07:00:00 temp : 27 °C weather : Partly sunny. wind : 4 km/h wind direction : Wind blowing from 90° East to West humidity : 89% visibility : 10 km
+time : 2018/05/29 10:00:00 temp : 28 °C weather : Thundershowers. Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/29 13:00:00 temp : 32 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 67% visibility : 10 km
+time : 2018/05/29 16:00:00 temp : 31 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 74% visibility : 10 km
+time : 2018/05/29 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 73% visibility : 10 km
+time : 2018/05/29 22:00:00 temp : 30 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 80% visibility : 10 km
+time : 2018/05/30 01:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 85% visibility : 10 km
+time : 2018/05/30 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/30 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 87% visibility : 10 km
+time : 2018/05/30 10:00:00 temp : 32 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 69% visibility : 10 km
+time : 2018/05/30 13:00:00 temp : 34 °C weather : Partly sunny. wind : 4 km/h wind direction : Wind blowing from 150° South-southeast to North-northwest humidity : 59% visibility : 10 km
+time : 2018/05/30 16:00:00 temp : 31 °C weather : Light rain. Overcast. wind : 2 km/h wind direction : Wind blowing from 130° Southeast to Northwest humidity : 75% visibility : 8 km
+time : 2018/05/30 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 80% visibility : 10 km
+time : 2018/05/30 22:00:00 temp : 28 °C weather : Passing clouds. wind : 2 km/h wind direction : Wind blowing from 300° West-northwest to East-southeast humidity : 83% visibility : 10 km
+time : 2018/05/31 01:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/05/31 04:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 85% visibility : 10 km
+time : 2018/05/31 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 92% visibility : 10 km
+time : 2018/05/31 10:00:00 temp : 31 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 76% visibility : 10 km
+time : 2018/05/31 13:00:00 temp : 34 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 61% visibility : 10 km
+time : 2018/05/31 16:00:00 temp : 28 °C weather : Thunderstorms. Partly sunny. wind : 4 km/h wind direction : Wind blowing from 300° West-northwest to East-southeast humidity : 85% visibility : 10 km
+time : 2018/05/31 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/05/31 22:00:00 temp : 29 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 82% visibility : 10 km
+time : 2018/06/01 01:00:00 temp : 27 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 94% visibility : 10 km
+time : 2018/06/01 04:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 90% visibility : 10 km
+time : 2018/06/01 07:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 92% visibility : 10 km
+time : 2018/06/01 10:00:00 temp : 30 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 310° Northwest to Southeast humidity : 75% visibility : 10 km
+time : 2018/06/01 13:00:00 temp : 33 °C weather : Partly sunny. wind : 6 km/h wind direction : Wind blowing from 290° West-northwest to East-southeast humidity : 60% visibility : 10 km
+time : 2018/06/01 16:00:00 temp : 32 °C weather : Overcast. wind : 2 km/h wind direction : Wind blowing from 130° Southeast to Northwest humidity : 63% visibility : 10 km
+time : 2018/06/01 19:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 72% visibility : 10 km
+time : 2018/06/01 22:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 78% visibility : 10 km
+time : 2018/06/02 01:00:00 temp : 29 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/06/02 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 87% visibility : 10 km
+time : 2018/06/02 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 90% visibility : 10 km
+time : 2018/06/02 10:00:00 temp : 32 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 60% visibility : 10 km
+time : 2018/06/02 13:00:00 temp : 34 °C weather : Partly sunny. wind : 6 km/h wind direction : Wind blowing from 310° Northwest to Southeast humidity : 54% visibility : 10 km
+time : 2018/06/02 16:00:00 temp : 33 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 64% visibility : 10 km
+time : 2018/06/02 19:00:00 temp : 30 °C weather : Thunderstorms. Overcast. wind : 24 km/h wind direction : Wind blowing from 180° South to North humidity : 71% visibility : 10 km
+time : 2018/06/02 22:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 88% visibility : 10 km
+time : 2018/06/03 01:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/06/03 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 83% visibility : 10 km
+time : 2018/06/03 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 89% visibility : 10 km
+time : 2018/06/03 10:00:00 temp : 32 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 76% visibility : 10 km
+time : 2018/06/03 13:00:00 temp : 35 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 53% visibility : 10 km
+time : 2018/06/03 16:00:00 temp : 34 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 61% visibility : 10 km
+time : 2018/06/03 19:00:00 temp : 31 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 69% visibility : 10 km
+time : 2018/06/03 22:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 77% visibility : 10 km
+time : 2018/06/04 01:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 71% visibility : 10 km
+time : 2018/06/04 04:00:00 temp : 29 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 74% visibility : 10 km
+time : 2018/06/04 07:00:00 temp : 30 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 75% visibility : 10 km
+time : 2018/06/04 10:00:00 temp : 32 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 61% visibility : 10 km
+time : 2018/06/04 13:00:00 temp : 35 °C weather : Partly sunny. wind : 4 km/h wind direction : Wind blowing from 280° West to East humidity : 51% visibility : 10 km
+time : 2018/06/04 16:00:00 temp : 36 °C weather : Overcast. wind : 4 km/h wind direction : Wind blowing from 120° East-southeast to West-northwest humidity : 53% visibility : 10 km
+time : 2018/06/04 19:00:00 temp : 31 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 67% visibility : 10 km
+time : 2018/06/04 22:00:00 temp : 29 °C weather : Clear. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 75% visibility : 10 km
+time : 2018/06/05 01:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 81% visibility : 10 km
+time : 2018/06/05 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 84% visibility : 10 km
+time : 2018/06/05 07:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 80% visibility : 10 km
+time : 2018/06/05 10:00:00 temp : 33 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 61% visibility : 10 km
+time : 2018/06/05 13:00:00 temp : 34 °C weather : Scattered clouds. wind : 4 km/h wind direction : Wind blowing from 160° South-southeast to North-northwest humidity : 57% visibility : 10 km
+time : 2018/06/05 16:00:00 temp : 33 °C weather : Scattered clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 61% visibility : 10 km
+time : 2018/06/05 19:00:00 temp : 31 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 70% visibility : 10 km
+time : 2018/06/05 22:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 74% visibility : 10 km
+time : 2018/06/06 01:00:00 temp : 30 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 68% visibility : 10 km
+time : 2018/06/06 04:00:00 temp : 28 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 90% visibility : 10 km
+time : 2018/06/06 07:00:00 temp : 29 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 85% visibility : 10 km
+time : 2018/06/06 10:00:00 temp : 33 °C weather : Scattered clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 63% visibility : 10 km
+time : 2018/06/06 13:00:00 temp : 33 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 63% visibility : 10 km
+time : 2018/06/06 16:00:00 temp : 27 °C weather : Thundershowers. Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 94% visibility : 8 km
+time : 2018/06/06 19:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 93% visibility : 10 km
+time : 2018/06/06 22:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 87% visibility : 10 km
+time : 2018/06/07 01:00:00 temp : 28 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 86% visibility : 10 km
+time : 2018/06/07 04:00:00 temp : 27 °C weather : Passing clouds. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 85% visibility : 10 km
+time : 2018/06/07 07:00:00 temp : 28 °C weather : Partly sunny. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 94% visibility : 10 km
+time : 2018/06/07 10:00:00 temp : 30 °C weather : Overcast. wind : No wind wind direction : Wind blowing from 0° North to South humidity : 73% visibility : 10 km
+
